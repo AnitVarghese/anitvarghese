@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anit M Varghese
 
-🔍 **VLSI Engineer | Embedded Tech Enthusiast | AI Explorer**
+🔍 **Emerging VLSI Engineer | Embedded Tech Enthusiast | AI Explorer**
 
 I'm a hands-on engineer working across the stack — from RTL design & formal verification using Cadence tools (JasperGold, Xcelium) to embedded systems, AI, and prototyping full-stack mobile/web solutions. Passionate about merging hardware precision with software innovation.
 
