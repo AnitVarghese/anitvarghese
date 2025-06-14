@@ -4,7 +4,7 @@
 
 I'm a hands-on engineer working across the stack — from RTL design & formal verification using Cadence tools (JasperGold, Xcelium) to embedded systems, AI, and prototyping full-stack mobile/web solutions. Passionate about merging hardware precision with software innovation.
 
-
+---
 
 ## 💡 Core Areas
 
@@ -18,16 +18,16 @@ I'm a hands-on engineer working across the stack — from RTL design & formal ve
 
 ## 🔧 Tools & Technologies
 
-`Cadence Suite` · `Verilog` · `Python` · `C++` · `Kotlin` · `Android` · `REST API` · `GitHub`  
-`Xcelium` · `JasperGold` · `Genus` · `Innovus` · `Visual Studio` · `ESP-IDF` · `OpenCV`
+`Cadence Suite` · `Verilog` · `Xcelium` · `JasperGold` · `Genus` · `Innovus` · `Virtuoso` .   `Calibre`
+`Visual Studio` · `ESP-IDF` · `OpenCV` . `Python` · `C++` · `Kotlin` · `Android Studio` · `REST API` · `GitHub` 
 
 ---
 
 ## 🎓 Credentials
 
 - 🏅 Certified Design Thinker – IBM  
-- 🏅 Certified Aspiring Architect – CFC  
-- 🎓 B.E., Electronics & Communication – Anna University
+- 🏅 Certified Aspiring Architect – CFC - SNS College of Technology
+- 🎓 B.E., Electronics & Communication – SNS College of Technoology - Anna University
 
 ---
 
