@@ -33,7 +33,6 @@ Engaged and dependable team participant, with a fine blend of technology, manage
 ---
 
 ## 📫 Reach Me
-
 [LinkedIn](https://www.linkedin.com/in/anitmv/) • [GitHub](https://github.com/AnitVarghese) • [Email](mailto:anitvarghese2011@gmail.com)
 
 ---
