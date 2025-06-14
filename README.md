@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anit M Varghese
 
-🔍 ** An aspiring architect | Emerging VLSI Engineer | Certified Design Thinker**
+🔍 ** An aspiring architect | Emerging VLSI Engineer | Certified Design Thinker **
 
 Aspiring architect and certified design thinker. Hands-on experience in end-to-end enterprise techno solution development including design, analysis, and development, across platforms including mobile, web, embedded and various domains.  Hands-on engineer working across the stack from RTL design & formal verification using Cadence tools (JasperGold, Xcelium) to embedded systems, AI, and prototyping full-stack mobile/web solutions. Passionate about merging hardware precision with software innovation.
 Engaged and dependable team participant, with a fine blend of technology, management, methodologies, engineering and industry practices, professional qualities, including timely, effective communication skills and a very positive approach. Passionate in joining hands in contribution to bring in success to the team, projects, programs and organization as an individual contributor and an effective team player in different industry engagement models. Directly trained, mentored by industry experts, mentors, CxOs.
