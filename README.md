@@ -4,7 +4,7 @@
 
 I'm a hands-on engineer working across the stack — from RTL design & formal verification using Cadence tools (JasperGold, Xcelium) to embedded systems, AI, and prototyping full-stack mobile/web solutions. Passionate about merging hardware precision with software innovation.
 
----
+
 
 ## 💡 Core Areas
 
